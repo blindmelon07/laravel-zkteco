@@ -1,5 +1,5 @@
 {
-    "name": "mehedijaman/laravel-zkteco",
+   "name": "blindmelon07/laravel-zkteco",
     "description": "Connect any zkteco fingerprint attendance machine to laravel application with no effort.",
     "keywords": [
         "ZKTeco",
@@ -7,12 +7,12 @@
         "TimeAttendance",
         "Laravel"
     ],
-    "homepage": "https://github.com/mehedijaman/laravel-zkteco",
+    "homepage": "https://github.com/blindmelon07/laravel-zkteco",
     "license": "MIT",
     "authors": [
         {
-            "name": "Mehedi Jaman",
-            "email": "mail4mjaman@gmail.com",
+            "name": "bryan detera",
+            "email": "bryandetera07@gmail.com",
             "role": "Developer"
         }
     ],
